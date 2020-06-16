@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="courses">
+        <item>Android Development</item>
+        <item>Cloud Computing</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scheme">Exam Scheme:</string>
+    <string name="IA">Internal Assesment: 30</string>
+    <string name="ICE">In-Course Exam: 30</string>
+    <string name="ECE">End-Course Exam: 40</string>
+    <string name="practical">Practical: 30 Marks</string>
+    <string name="project">Project: 20 Marks</string>
+    <string name="theory1">Course Contents:</string>
+    <string name="theory2">Unit-1: Java Programming</string>
+    <string name="theory3">Basics, loop, control structures,etc</string>
+    <string name="theory4">Unit-2: Android Platform</string>
+    <string name="theory5">IDE, Intent, Navigation, Menu</string>
+    <string name="practical1">Practical List:</string>
+    <string name="practical2">Practical-1</string>
+    <string name="practical3">Tic-Tac-Toe Game</string>
+    <string name="practical4">Practical-2</string>
+    <string name="practical5">Simple Calculator</string>
+    <string name="practical6">Practical-3</string>
+    <string name="practical7">Tab Layout</string>
+    <string name="cscheme">Exam Scheme:</string>
+    <string name="cIA">Internal Assesment: 30</string>
+    <string name="cICE">In-Course Exam: 30</string>
+    <string name="cECE">End-Course Exam: 40</string>
+    <string name="cpractical">Practical: 30 Marks</string>
+    <string name="cproject">Project: 20 Marks</string>
+    <string name="ctheory1">Course Contents:</string>
+    <string name="ctheory2">Unit-1: Cloud Computing</string>
+    <string name="ctheory3">Basics, Layers and types</string>
+    <string name="ctheory4">Unit-2: Virtualization</string>
+    <string name="ctheory5">Basics, types and techniques</string>
+    <string name="cpractical1">Practical List:</string>
+    <string name="cpractical2">Practical-1</string>
+    <string name="cpractical3">Virtual Machine</string>
+    <string name="cpractical4">Practical-2</string>
+    <string name="cpractical5">Bare metal Hypervisor</string>
+    <string name="cpractical6">Practical-3</string>
+    <string name="cpractical7">AWS services</string>
+</resources>
